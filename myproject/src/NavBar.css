@@ -1,0 +1,18 @@
+nav {
+    background-color: black ;
+    color: white;
+    height: 40px;
+    font-size: larger;
+    padding: 20px 40px;
+}
+
+nav a{
+    margin-right: 20px;
+    color: red;
+}
+
+body{
+    background-color: gray;
+    padding: 20px;
+    margin: 10px;
+}
